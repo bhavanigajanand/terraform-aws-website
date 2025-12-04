@@ -22,6 +22,9 @@ This is a **DevOps learning project** where I deployed a simple website on AWS u
 - Simple HTML website deployed using cloud-init (`user_data`)
 - Outputs public IP for easy access to the website
 
+## Demo Screenshot
+![Website Screenshot](website.png)
+
 ## Learning Outcomes
 - Hands-on experience with **AWS and Terraform**
 - Understanding **IaC principles** and cloud automation
